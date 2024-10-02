@@ -22,6 +22,7 @@
             <li><a href="#course" >Facultades</a></li>
             <li><a href="#review" >servicios</a></li>
             <li><a href="#contact" >Registrarse</a></li>
+            <li><a href="login/login.html" >Ingresar</a></li>
         </ul>
 
     </nav>
