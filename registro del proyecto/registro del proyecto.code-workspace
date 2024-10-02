@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../login del proyecto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "registro del proyecto"
+	}
+}
